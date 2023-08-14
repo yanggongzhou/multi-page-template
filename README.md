@@ -1,4 +1,5 @@
-### 多页面配置
+### 多页面配置 Multiple pages
+react & typescript
 ```
   1.config/paths.js添加module
   2.entry入口添加自定义文件
